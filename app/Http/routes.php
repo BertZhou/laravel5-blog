@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', ['as' => 'home', 'uses' => 'PostsController@getPage']);
+//Route::get('/', ['as' => 'home', 'uses' => 'PostsController@getPage']);
 
 
 // AuthController
